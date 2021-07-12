@@ -4,4 +4,14 @@
 后后续 尝试ShaderGraph连连看实现
 #### 目前进度 
 
-*  图片渐变
+* 淡入淡出Fade
+* 推入Push
+* 擦除Wipe
+* 分割Split
+* 显示Reveal
+* 切入Cut
+* 随机线条RandomBars
+* 形状Shape
+* 覆盖Cover揭开UnCover
+* 闪光Flash
+* 溶解Dissolve
